@@ -25,7 +25,7 @@ const SearchMain = () => {
             }
             console.log (response)
         }catch{
-            alert('写真の取得に失敗しました。')
+            alert('写真の取得に失敗しました')
         }
     }
 
